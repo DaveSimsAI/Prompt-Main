@@ -1,7 +1,3 @@
-Certainly! Below is an integrated **Project Context Template** that contains both the context file structure and an in-line, bypassable questionnaire for each section. Users can choose to skip any section by writing “Bypassed” in the answer area. The template is ready for use as a single Markdown file—complete, comprehensive, and self-guiding for onboarding or AI prompt context. 
-
-A note is included at the top: **You can begin the process of customizing this template by entering your answers—type `RUN` in the command line to begin.**
-
 # Project Context Template (with Questionnaire)
 
 **Last Updated:** August 04, 2025  
