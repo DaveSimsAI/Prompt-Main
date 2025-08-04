@@ -1,0 +1,260 @@
+Project Context Template
+Last Updated: August 04, 2025
+Version: 1.0.1
+Purpose: Standardized template for project-specific context files, merging development environment standards with agile documentation processes for consistent, compliant, and actionable project management.
+
+Table of Contents
+User Identity & Preferences
+
+Primary Work Domains
+
+Project Overview
+
+Development Preferences
+
+AI Collaboration Preferences
+
+Technical Environment
+
+Security Requirements
+
+Integration Preferences
+
+Project Management Approach
+
+Communication Guidelines
+
+Tool-Specific Adaptations
+
+Quality Assurance Standards
+
+Agile Three-Document Process
+
+Document Creation Guidelines
+
+Success Metrics
+
+User Identity & Preferences
+Name: [Insert Name, e.g., Dave]
+
+Reference Format: Use “[Name]:” instead of “Human:” in documentation/artifacts
+
+Communication Style: Professional, conversational, direct, actionable
+
+Documentation Preference: Comprehensive, scannable, clear headings, bullet lists, ToC navigation
+
+Code Style: Clean, well-commented, modular architecture
+
+Primary Work Domains
+Compliance & Risk Management: [Frameworks, e.g., HIPAA-HITECH, NIST CSF, SOX]
+
+Technology Stack: [React 18+, Node.js, Python, AWS/Azure, etc.]
+
+Industries: [Healthcare, Financial Services, Life Sciences, etc.]
+
+Project Types: [Security tools, compliance platforms, vendor management, etc.]
+
+Project Overview
+Project Name: [Insert Project Name]
+
+Description: [High-level overview, goals, scope]
+
+Status: [Planning, Development, Maintenance]
+
+Key Objectives:
+
+[Bullet measurable outcomes]
+
+IP Considerations: [Describe unique IP without specifics, e.g., “proprietary modular compliance algorithms”]
+
+Development Preferences
+Architecture Approach
+Modular, independent, well-documented modules
+
+Documentation-driven development
+
+Test-driven: Unit/integration strategies
+
+API-first: Clear interface definitions
+
+Code Quality Standards
+Functional React components, hooks preferred
+
+Use TypeScript when applicable
+
+Comprehensive error handling/validation
+
+Secure by design; OWASP guidelines, dependency versioning
+
+Accessibility: WCAG 2.1 for all UI
+
+Documentation Requirements
+Clear README setup, usage, continuation instructions
+
+API docs (OpenAPI/Swagger)
+
+Architecture diagrams (Mermaid or similar)
+
+Continuation prompts/templates
+
+Review cadence: Quarterly updates
+
+AI Collaboration Preferences
+Prompt Structure
+Context-first background
+
+Clear, measurable objectives
+
+Mention technical constraints, existing code, requirements
+
+Modular requests for complex tasks
+
+Response Preferences
+Actionable advice, real implementation details, code examples
+
+Best practices, security considerations
+
+Alternative approaches: pros/cons if multiple solutions exist
+
+Technical Environment
+Frontend: [e.g., React 18+, Tailwind CSS, TypeScript]
+
+Backend: [e.g., Node.js, Express, Python (FastAPI/Django)]
+
+Database: [PostgreSQL (preferred), MongoDB (when needed)]
+
+Cloud: [AWS (primary), Azure (secondary); optionally SageMaker]
+
+DevOps: [Docker, GitHub Actions, Terraform]
+
+Security Requirements
+Authentication: OAuth 2.0, SAML, MFA
+
+Data Protection: Encryption at rest/in transit
+
+Compliance: HIPAA, SOX, GDPR considerations
+
+Audit Logging: Activity tracking, e.g., ELK stack integration
+
+Integration Preferences
+APIs: REST, OpenAPI documentation
+
+Real-time: WebSockets/Server-Sent Events
+
+File Handling: Secure upload/download, validation
+
+Notifications: Email, Slack, Teams integration
+
+Project Management Approach
+Modular Development
+Feature-based modules, well-defined APIs
+
+Independent module testing
+
+Incremental delivery at each milestone
+
+Documentation Standards
+Git/semantic versioning
+
+Feature branches with PR reviews (GitFlow, Mermaid workflow diagrams)
+
+Release notes and deployment guides
+
+Companion templates for project context consistency
+
+Session Management
+State documentation between sessions
+
+Continuation templates for resuming work
+
+Progress milestones, completion criteria
+
+Knowledge transfer support
+
+Communication Guidelines
+Status Updates: Completed, current status, next steps
+
+Decision Documentation: Record choices and rationale
+
+Issue Tracking: Clear problem/resolution statements
+
+Milestone Reviews: Regular project assessment
+
+Team Collaboration
+Code/peer reviews, knowledge sharing, onboarding
+
+Project handoffs and transfer documentation
+
+Tool-Specific Adaptations
+Claude (Anthropic): Comprehensive artifacts, web search, analysis tools
+
+ChatGPT (OpenAI): Code interpreter, brainstorming, DALL-E for diagrams
+
+Grok: Business logic, planning, code samples, compliance, real-time search, content/file analysis, diagrams and image generation w/user confirmation
+
+Quality Assurance Standards
+Code: ESLint, Prettier, Jest, React Testing Library, Cypress, Snyk
+
+Security: Static analysis, dependency scanning
+
+Performance: Bundle analysis, Lighthouse
+
+Docs: Up-to-date, complete, clear for both technical/business use, maintained
+
+Agile Three-Document Process
+One-Page Baseball Card (Front & Back):
+
+Format: Single/double-sided quick reference
+
+Content: What/Why/Approach, IP Teaser, Benefits, CTA
+
+Guidelines: 300-500 words, use visuals, avoid IP details
+
+Slide Show Style (5-7 Slides):
+
+Format: Minimal text, visual focus, WCAG 2.1 compliance
+
+Content: Intro, Work Description, Benefits/Use Cases, IP Highlights, Next Steps
+
+Manual or Run Book:
+
+Format: Detailed, modular, compliance mappings, version-controlled
+
+Content: Intro, detailed/diagrams/code/appendices
+
+Document Creation Guidelines
+Modular, independent, cross-referenced modules
+
+Scannable, secure, AI-leveraged as per preferences
+
+Agile Iteration: Draft → Review → Refine → Finalize
+
+Success Metrics
+Development Velocity: Concept-to-implementation time (goal: -20% via modularity)
+
+Code Quality: 80%+ test coverage, maintainability scores
+
+Doc Quality: Onboarding/adoption improvement, lead generation via 3-doc process
+
+System Reliability: 99.9% uptime, error rates, audit time, ROI
+
+Prompt Quality Metrics (for AI Context)
+Rate prompts (1–10) across:
+
+Clarity
+
+Specificity
+
+Conciseness
+
+Relevance
+
+Structure
+
+Additional: Completeness, Creativity, Safety/Ethics, Adaptability, Testability/Measurability
+
+Scoring: Average for overall quality.
+Improvement: Revise metrics with lowest scores.
+Testability example: “Ensure the response is under 200 words and covers these 3 points.”
+
+Use this template as a starting point for context-rich, standardized documentation—ready for direct AI collaboration or onboarding new contributors.
